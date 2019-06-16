@@ -30,7 +30,7 @@
             "oAuth": false,
             "appUrl": "devicetypes/krlaframboise/zooz-4-in-1-sensor.src/zooz-4-in-1-sensor.groovy",
             "appSettings": {},
-            "version": "2.0.5",
+            "version": "2.1",
             "optional": false
         }
     ]
